@@ -64,10 +64,8 @@ a:hover{
 @import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 p{
 	font-family: 'Noto Sans TC', sans-serif;
-	font-weight: lighter;
 	font-size: 12px;
 	line-height: 20px;
-	margin-bottom: 0px;
 } 
 
 .demo-box-fix{
