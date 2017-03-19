@@ -61,6 +61,15 @@ a:hover{
 	background: #ccc url(100.png) center top;
 }
 
+
+p{
+	@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: lighter;
+	font-size: 12px;
+	line-height: 20px;
+} 
+
 .demo-box-fix{
 	color: white;
 	background: rgba(60,60,60,1);
