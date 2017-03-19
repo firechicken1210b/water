@@ -38,7 +38,7 @@ a:hover{
 	position: fixed;
 	left: 10%;
 	margin: 50px 70px;
-	font-size: 15px;
+	font-size: 12px;
 	font-weight:300;
 	line-height: 32px;
 }
@@ -46,7 +46,7 @@ a:hover{
 	position: fixed;
 	right: 10%;
 	margin: 50px 70px;
-	font-size: 15px;
+	font-size: 12px;
 	font-weight:300;
 	line-height: 32px;
 }
