@@ -63,12 +63,12 @@ a:hover{
 
 @font-face {
   font-family: Noto Sans TC;
-  src: url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+  src: url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
 }
 
 @font-face {
   font-family: cwTeXYen;
-  src: url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
+  src: url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
 }
 
 .font1{
